@@ -1,0 +1,2 @@
+# obsidian-example
+Obsidian Example
